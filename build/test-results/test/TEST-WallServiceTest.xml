@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="WallServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-30T17:00:50" hostname="HOME-PC" time="0.018">
+  <properties/>
+  <testcase name="shouldAddPost" classname="WallServiceTest" time="0.018"/>
+  <system-out><![CDATA[id: 1, Пользователь: Петя, Текст: Тестовый пост -280993399 
+id: 2, Пользователь: Петя, Текст: Тестовый пост №2 125124146 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
